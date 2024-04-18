@@ -1,0 +1,231 @@
+{
+    "teams": [
+        {
+            "teamName": "Payments Team",
+            "members": [
+                "John Doe",
+                "Jane Doe",
+                "Alice Martin",
+                "Bob Martin"
+            ],
+            "teamLead": "John Doe",
+            "scopes": [
+                "Payment Gateway",
+                "Payment Processing",
+                "Payment Reconciliation",
+                "UPI Payments",
+                "Bill Payments",
+                "Merchant Transactions"
+            ],
+            "utterances": [
+                "Can you help me integrate the Google Pay UPI payments in our app?",
+                "I'm having trouble with the payment gateway while using Google Pay.",
+                "Can you check why the payment processing is taking so long in Google Pay?",
+                "There seems to be an issue with the payment reconciliation in our Google Pay transactions.",
+                "Can you help me make a UPI payment using Google Pay?",
+                "I'm unable to make bill payments through Google Pay, can you help?",
+                "Can you assist me with the merchant transactions in Google Pay?",
+                "I'm facing issues while checking my bank balance through Google Pay.",
+                "Can you help me with QR code payments in Google Pay?",
+                "I'm unable to make online card payments using Google Pay, can you help?",
+                "Can you assist me in buying, selling, and earning gold through Google Pay?",
+                "I'm having trouble with UPI transfers in Google Pay, can you help?",
+                "Can you check why the loans feature from DMI Finance is not working in Google Pay?",
+                "Can you help me with the security of the payment processing in Google Pay?",
+                "Can you assist me in resolving the issues with the user interface in Google Pay's payment gateway?"
+            ]
+        },
+        {
+            "teamName": "Recharges and Bill Payments Team",
+            "members": [
+                "Emily Smith",
+                "David Johnson",
+                "Sara Lee"
+            ],
+            "teamLead": "Emily Smith",
+            "scopes": [
+                "Mobile Recharges",
+                "Utility Bill Payments",
+                "Subscription Payments"
+            ],
+            "utterances": [
+                "Can I use Google Pay to recharge my mobile?",
+                "How can I do a mobile recharge using Google Pay?",
+                "I'm having trouble with mobile recharge on Google Pay",
+                "Google Pay is not letting me recharge my mobile",
+                "Can I pay my utility bills through Google Pay?",
+                "How do I pay my electricity bill on Google Pay?",
+                "I'm facing issues while paying my utility bills on Google Pay",
+                "Google Pay is not allowing me to pay my bills",
+                "Can I set up automatic payments for my subscriptions on Google Pay?",
+                "How can I pay my Netflix subscription using Google Pay?",
+                "I'm unable to make subscription payments through Google Pay",
+                "Google Pay is not recognizing my subscription payment",
+                "Can I pay my credit card bill through Google Pay?",
+                "How can I pay my credit card bill using Google Pay?",
+                "I'm facing issues while paying my credit card bill on Google Pay",
+                "Google Pay is not letting me pay my credit card bill"
+            ]
+        },
+        {
+            "teamName": "Rewards and Loyalty Team",
+            "members": [
+                "Michael Brown",
+                "Sophia Garcia"
+            ],
+            "teamLead": "Michael Brown",
+            "scopes": [
+                "Rewards Program",
+                "Customer Loyalty"
+            ],
+            "utterances": [
+                "How can I earn rewards with Google Pay?",
+                "What loyalty programs are available on Google Pay?",
+                "Can I redeem my rewards points on Google Pay?",
+                "How can I check my rewards balance on Google Pay?",
+                "Is there a limit to the number of rewards I can earn on Google Pay?",
+                "How can I maximize my rewards earnings on Google Pay?",
+                "What are the terms and conditions for the rewards program on Google Pay?",
+                "How can I contact customer support for the rewards program on Google Pay?",
+                "Can I transfer my rewards to another user on Google Pay?",
+                "How can I track my rewards history on Google Pay?",
+                "What benefits do I get with the loyalty program on Google Pay?",
+                "Can I use my rewards to make purchases on Google Pay?",
+                "How can I ensure that I don't miss out on rewards and loyalty offers on Google Pay?",
+                "What should I do if I encounter an issue with the rewards or loyalty program on Google Pay?",
+                "How can I provide feedback on the rewards or loyalty program on Google Pay?"
+            ]
+        },
+        {
+            "teamName": "Loans and Banking Team",
+            "members": [
+                "Daniel Wilson",
+                "Lily Chen"
+            ],
+            "teamLead": "Daniel Wilson",
+            "scopes": [
+                "Loan Management",
+                "Bank Account Integration"
+            ],
+            "utterances": [
+                "Can I get a loan through Google Pay?",
+                "How can I manage my loan using Google Pay?",
+                "What are the steps to apply for a loan in Google Pay?",
+                "How do I repay my loan in Google Pay?",
+                "What happens if I miss a loan payment in Google Pay?",
+                "Can I extend my loan repayment date in Google Pay?",
+                "How can I check my loan balance in Google Pay?",
+                "What is the interest rate for loans in Google Pay?",
+                "What documents are required to apply for a loan in Google Pay?",
+                "How does Google Pay ensure the security of my loan information?",
+                "Can I transfer my bank account to Google Pay for loan management?",
+                "What banks are supported for loan management in Google Pay?",
+                "How does Google Pay integrate with my bank account for loan management?",
+                "What are the benefits of using Google Pay for loan management?",
+                "How does Google Pay's loan feature compare to other loan apps?"
+            ]
+        },
+        {
+            "teamName": "Security and Fraud Prevention Team",
+            "members": [
+                "Alex Johnson",
+                "Mia Rodriguez"
+            ],
+            "teamLead": "Alex Johnson",
+            "scopes": [
+                "Transaction Security",
+                "Fraud Detection"
+            ],
+            "utterances": [
+                "Ensure the security of transactions when users pay their bills on Google Pay",
+                "Detect potential fraud in UPI transfers in Google Pay",
+                "Improve the security measures for mobile recharges on Google Pay",
+                "Implement enhanced security for bank balance checking on Google Pay",
+                "Test the security of QR code payments in Google Pay",
+                "Verify the security of online and offline card payments in Google Pay",
+                "Check the security of buying, selling, and earning gold on Google Pay",
+                "Ensure the security of loans feature from DMI Finance on Google Pay",
+                "Implement robust fraud detection for bill payments on Google Pay",
+                "Test the fraud detection system for mobile recharges on Google Pay",
+                "Verify the fraud detection measures for bank balance checking on Google Pay",
+                "Check the effectiveness of fraud detection in QR code payments on Google Pay",
+                "Ensure the accuracy of fraud detection in online and offline card payments on Google Pay",
+                "Test the fraud detection system for buying, selling, and earning gold on Google Pay",
+                "Verify the fraud detection measures for loans feature from DMI Finance on Google Pay"
+            ]
+        },
+        {
+            "teamName": "UPI Scan and PIN",
+            "members": [
+                "Amal Sarkar",
+                "Nitish Mandal"
+            ],
+            "teamLead": "Nitish Mandal",
+            "scopes": [
+                "Setting UPI Pin",
+                "UPI QR Code Scanning"
+            ],
+            "utterances": [
+                "Set up a UPI pin in Google Pay",
+                "Reset my UPI pin in Google Pay",
+                "I can't set up a UPI pin in Google Pay",
+                "The UPI pin setup process in Google Pay is not working",
+                "I can't scan a QR code in Google Pay",
+                "Google Pay is not providing the QR code scanning feature",
+                "I can't use the QR code scanning feature in Google Pay",
+                "Google Pay is not offering the UPI pin feature",
+                "I'm unable to use the UPI pin feature in Google Pay",
+                "Google Pay is not giving me the option to set up a UPI pin",
+                "I can't find the option to set up a UPI pin in Google Pay",
+                "Google Pay is not providing the QR code scanning option",
+                "I'm unable to find the QR code scanning option in Google Pay",
+                "Google Pay is not allowing me to use the UPI pin feature",
+                "I can't use the UPI pin feature in Google Pay",
+                "Google Pay is not letting me use the QR code scanner",
+                "I'm unable to scan QR codes for payment in Google Pay",
+                "Google Pay is not recognizing QR codes during scanning",
+                "Google Pay is not allowing me to make online/offline card payments",
+                "I'm unable to make card payments in Google Pay",
+                "Google Pay is not providing the feature to make bill payments",
+                "I can't pay bills in Google Pay",
+                "Google Pay is not allowing me to make mobile recharges",
+                "I'm unable to recharge my mobile in Google Pay",
+                "Google Pay is not providing the feature to send money via UPI transfers",
+                "I can't send money via UPI transfers in Google Pay"
+            ]
+        },
+        {
+            "teamName": "User Interface and User Experience",
+            "members": [
+                "Olivia White",
+                "Ethan Brown"
+            ],
+            "teamLead": "Olivia White",
+            "scopes": [
+                "UI Design / Fix",
+                "UX Fix / Research"
+            ],
+            "utterances": [
+                "Design the user interface for Google Pay's UPI-based payment feature.",
+                "Fix any UI issues in Google Pay's bill payment feature.",
+                "Conduct UX research for Google Pay's mobile recharge functionality.",
+                "Improve the user experience of the bank balance checking feature in Google Pay.",
+                "Design the QR code payment screen for Google Pay in an user-friendly manner.",
+                "Fix any UX issues in Google Pay's online card payment feature.",
+                "Conduct research on the usability of the gold buying and selling feature in Google Pay.",
+                "Design the user interface for sending money via UPI transfers in Google Pay.",
+                "Fix any UI issues in the loans feature from DMI Finance in Google Pay.",
+                "Improve the user experience of the UX Fix / Research for Google Pay's BHIM UPI support.",
+                "Conduct research on the user experience of Google Pay's QR code payments.",
+                "Design the user interface for the feature of checking transaction history in Google Pay.",
+                "Fix any UX issues in Google Pay's feature of adding new bank accounts.",
+                "Conduct research on the user experience of Google Pay's bill splitting feature.",
+                "Improve the user experience of the feature of setting up a new UPI ID in Google Pay.",
+                "Design the user interface for the feature of managing multiple UPI IDs in Google Pay.",
+                "Fix any UI issues in Google Pay's feature of setting up a new virtual card.",
+                "Conduct research on the user experience of Google Pay's feature of blocking a lost UPI ID.",
+                "Improve the user experience of the feature of managing payment requests in Google Pay."
+            ]
+        }
+    ]
+}
