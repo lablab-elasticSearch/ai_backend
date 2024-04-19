@@ -1,0 +1,151 @@
+class SemnticRouter:
+    def __init__(self,embedding_model=None,thr_mode = False):
+        if embedding_model is None:
+            self.embedding_model = OpenAIEmbedding()
+        else:
+            self.embedding_model = embedding_model
+        self.routes = []
+        self.thr_mode = thr_mode
+    def add_route(self,route_name:str,utterances:List[str],score_threshold=0.82):
+        embeddings = self.embedding_model._get_text_embeddings(utterances)
+        emb={
+            'route_name' : route_name,
+            'embeddings' : embeddings,
+            'score_threshold' : score_threshold
+        }
+        self.routes.append(emb)
+    def route(self,query):
+        query_embedding = self.embedding_model._get_text_embeddings([query])
+        scores_for_routes = []
+        for route in self.routes:
+            embeddings = route['embeddings']
+            top5_cosine_similarities = np.sort(cosine_similarity(query_embedding,embeddings)[0])
+            avg_top5_cosine_similarities = np.mean(top5_cosine_similarities[-5:])
+            print(f">>>>>{route['route_name']} {np.median(top5_cosine_similarities[-5:])}")
+            if avg_top5_cosine_similarities > route['score_threshold'] or not self.thr_mode:
+                scores_for_routes.append((route['route_name'],avg_top5_cosine_similarities))
+        scores_for_routes = sorted(scores_for_routes,key=lambda x:x[1],reverse=True)
+        return scores_for_routes
+    
+
+
+
+
+
+
+
+
+class TeamRoutePipeline:
+    def __init__(
+            self, 
+            team_details_file_path:str, 
+            app_details_file_path:str,
+            app_description=None,
+            build_mode=False,
+            score_threshold_config=None,
+            score_threshold=0.82,
+            routing_encoder=None,
+            thr_mode=False
+            ):
+        
+        self.team_details_file_path = team_details_file_path
+        # load app details from the file
+        with open(app_details_file_path,'r') as f:
+            app_details = json.load(f)
+        with open(self.team_details_file_path,'r') as f:
+            self.team_details = json.load(f)
+
+        self.app_name = app_details["title"]
+        self.app_description = app_description
+        self.utterance_engine = UtterenceEngine()
+        self.technical_summary_engine = TechnicalSummaryEngine()
+
+        self.routing_encoder = routing_encoder
+        self.semantic_router = SemnticRouter(embedding_model=self.routing_encoder,thr_mode=thr_mode)
+        
+        self.score_threshold_config = score_threshold_config
+        if score_threshold_config is None:
+            self.score_threshold_config = {team:score_threshold for team in self.team_details["teams"]}
+
+        if app_description is None:
+            self.app_description = app_details["description"]
+            self.summarized_app_description = self.technical_summary_engine(app_description=self.app_description).summary
+        if build_mode:
+            self.build()
+
+    def build(self):
+        # load team details from the file
+        with open(self.team_details_file_path,'r') as f:
+            self.team_details = json.load(f)
+        print("Building utterances ...")
+        for i,team in tqdm(enumerate(self.team_details["teams"])):
+            print(f"Building utterances for team : {team['teamName']} ...")
+            utterance_ans = self.utterance_engine(app_description=self.summarized_app_description,scopes=str(team["scopes"])).utterenceList
+            self.team_details["teams"][i]["utterances"] = utterance_ans
+        # save the updated team details to the file
+        with open(self.team_details_file_path,'w') as f:
+            json.dump(self.team_details,f,indent=4)  
+
+    def build_routes(self):
+        with open(self.team_details_file_path,'r') as f:
+            self.team_details = json.load(f)
+
+        print("Building route layers ...")
+        for i,team in tqdm(enumerate(self.team_details["teams"])):
+            team_name = team["teamName"]
+            print(f"Building route for team : {team_name} | {i+1}/{len(self.team_details['teams'])} ...")
+            try:
+                team_utterances = team["utterances"]
+            except:
+                print(f"team_name : {team_name} has not utterances ... build_routes paused")
+                return
+
+            self.semantic_router.add_route(
+                team_name,
+                team_utterances,
+                score_threshold=self.score_threshold_config[team_name])
+            
+
+    def route_text(self, text):
+        if self.semantic_router.routes == []:
+            print("Routes are not built yet")
+            return None
+        return self.semantic_router.route(text)
+    
+
+
+
+
+
+
+class ReviewRoutePipeline:
+    def __init__(self, team_route_obj):
+        self.review_degen_pipeline = ReviewDegenAndSentimentPipeline()
+        self.team_route_obj = team_route_obj
+
+    def __call__(self,review_nodes):
+        review_nodes_assigned = []
+        for review_node in review_nodes:
+            issues = self.review_degen_pipeline(review_node.text) 
+            # assign each subset to a team
+            # Loop over subsets_with_sentiment 
+            teams = []
+            review_node.metadata['assigned_teams'] = []
+            review_node.metadata['issues'] = []
+            review_node.metadata['detailed_issues'] = []
+            # review_node.metadata['positive_keywords'] = []
+            review_sub_prompt = ""
+            for issue in issues:
+                print(">>> ",issue['issue'])
+                if issue["containsAnyReport"] or issue['featureRequest']:
+                    team_name = self.team_route_obj.route_text(issue['issue'])
+                    print(team_name)
+                    team_name = team_name[0][0]
+                    team_name = team_name if team_name else "General"
+                    print(f"issue : {issue} assigned to Team: {team_name}")
+                    teams.append(team_name)
+                    review_node.metadata['issues'].append(issue['issue'])
+                    review_node.metadata['detailed_issues'].append(issue)
+                    review_node.metadata['assigned_teams'].append(issue)
+            review_nodes_assigned.append(review_node)
+        return review_nodes_assigned

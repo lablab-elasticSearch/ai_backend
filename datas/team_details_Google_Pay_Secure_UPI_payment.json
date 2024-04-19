@@ -155,46 +155,6 @@
             ]
         },
         {
-            "teamName": "UPI Scan and PIN",
-            "members": [
-                "Amal Sarkar",
-                "Nitish Mandal"
-            ],
-            "teamLead": "Nitish Mandal",
-            "scopes": [
-                "Setting UPI Pin",
-                "UPI QR Code Scanning"
-            ],
-            "utterances": [
-                "Set up a UPI pin in Google Pay",
-                "Reset my UPI pin in Google Pay",
-                "I can't set up a UPI pin in Google Pay",
-                "The UPI pin setup process in Google Pay is not working",
-                "I can't scan a QR code in Google Pay",
-                "Google Pay is not providing the QR code scanning feature",
-                "I can't use the QR code scanning feature in Google Pay",
-                "Google Pay is not offering the UPI pin feature",
-                "I'm unable to use the UPI pin feature in Google Pay",
-                "Google Pay is not giving me the option to set up a UPI pin",
-                "I can't find the option to set up a UPI pin in Google Pay",
-                "Google Pay is not providing the QR code scanning option",
-                "I'm unable to find the QR code scanning option in Google Pay",
-                "Google Pay is not allowing me to use the UPI pin feature",
-                "I can't use the UPI pin feature in Google Pay",
-                "Google Pay is not letting me use the QR code scanner",
-                "I'm unable to scan QR codes for payment in Google Pay",
-                "Google Pay is not recognizing QR codes during scanning",
-                "Google Pay is not allowing me to make online/offline card payments",
-                "I'm unable to make card payments in Google Pay",
-                "Google Pay is not providing the feature to make bill payments",
-                "I can't pay bills in Google Pay",
-                "Google Pay is not allowing me to make mobile recharges",
-                "I'm unable to recharge my mobile in Google Pay",
-                "Google Pay is not providing the feature to send money via UPI transfers",
-                "I can't send money via UPI transfers in Google Pay"
-            ]
-        },
-        {
             "teamName": "User Interface and User Experience",
             "members": [
                 "Olivia White",

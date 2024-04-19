@@ -1,0 +1,41 @@
+[
+{   
+    "request":" Show me the analysis of the reviews for the last 5 days",
+    "response":{
+        "answerText":"Here is the analysis of the reviews for the last 5 days. 
+        The first plot shows the count of tickets per day as reported by the users. 
+        The second plot shows the overall count of tickets in each issue category.",
+        "plots":[
+            "plot1":{
+                "type":"line",
+                "x":["2018-01-01 00:00:00","2018-01-02 00:00:00","2018-01-03 00:00:00","2018-01-04 00:00:00","2018-01-05 00:00:00"],
+                "y":[1,2,3,4,5],
+                "xlabel":"date_time",
+                "ylabel":"count",
+                "legend":"UPI Issues",
+                "title":"No. of tickets vs day"
+            },
+            "plot2":{
+                "type":"line",
+                "x":["2018-01-01 00:00:00","2018-01-02 00:00:00","2018-01-03 00:00:00","2018-01-04 00:00:00","2018-01-05 00:00:00"],
+                "y":[1,2,3,4,5],
+                "xlabel":"date_time",
+                "ylabel":"count",
+                "legend":"Transaction Failure",
+                "title":"No. of tickets vs day"
+            },
+            "plot3":{
+                "type":"bar",
+                "x":["UPI Issues","Transaction Failure","Others"],
+                "y":[10,20,30,40],
+                "xlabel":"Issue",
+                "ylabel":"count",
+	     "legend":”Issue count”,
+                 "title":"Issue count vs type"
+            },
+            ...
+        ]
+    }
+},
+...
+]

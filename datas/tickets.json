@@ -1,0 +1,1096 @@
+{
+    "Payments Team": [
+        {
+            "ticket_id": "510996",
+            "timestamp": "2024-04-19 16:28:17",
+            "review_json_list": [
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-16 15:43:14",
+                        "reviewId": "12eaa130-83cd-4ca2-9b2e-332f3b40a876",
+                        "userName": "Sudhanshu Joshi",
+                        "rating": "1",
+                        "thumbsUpCount": "0",
+                        "appVersion": "222.1.4 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "On April 15th, one of payment got stuck due to server issue, amount got debited from my account but it's showing in process. Since then after raising the issue ticket, my bank account is automatically getting delinked from the app and now when iam trying Activate my bank account again it's showing sms sending error. What to do ? Why Its frequently happening? Is this the issue with new update? Whom to contact?",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "One of payment got stuck due to server issue",
+                            "Amount got debited from my account but it's showing in process",
+                            "Bank account is automatically getting delinked from the app",
+                            "Trying to activate bank account again shows sms sending error",
+                            "Frequently happening issues",
+                            "Issue with new update"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-15 21:22:47",
+                        "reviewId": "76e4a87f-c9b9-4e5e-83c1-901b25e2c07d",
+                        "userName": "ARUNAVA MUKHERJEE",
+                        "rating": "1",
+                        "thumbsUpCount": "49",
+                        "appVersion": "222.1.4 (arm64-v8a_release_flutter)",
+                        "replyContent": "Regret the inconvenience, Arunava. We suggest you contact our specialist team for assistance on this: https://goo.gle/2PQQFuc. Our team would be happy to help.",
+                        "repliedAt": "2024-04-15 22:09:40",
+                        "text": "I keep giving the correct pin, but it says incorrect pin, and locks me out of opening the app. Even when I carefully input each digit. It is really frustrating not being able to open the app. And not like I have already tried multiple wrong tries, it just starts doing this on a whim. Extremely unreliable.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "The app says incorrect pin even when I input it carefully",
+                            "Getting locked out of the app due to incorrect pin",
+                            "App starts behaving unpredictably without multiple wrong tries",
+                            "Extremely unreliable app"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-13 15:37:47",
+                        "reviewId": "f566625c-b136-4066-8a61-e45edefa89df",
+                        "userName": "Shinaz ck",
+                        "rating": "4",
+                        "thumbsUpCount": "3",
+                        "appVersion": "222.1.4 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Discover seamless payments and effortless bill splitting with Google Pay. Pay for everyday purchases with a tap and easily split bills among friends. However, ensure unpaid amounts after bill splitting are visible and manageable, as they sometimes get buried in the transaction list. Adding a feature to send reminders for unpaid shares would greatly enhance user experience. Simplify your finances, track transactions, and stay on budget with our intuitive interface",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "Adding a feature to send reminders for unpaid shares would greatly enhance user experience."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-04 18:59:49",
+                        "reviewId": "618be9d3-50be-498e-96ac-76b986c3a06e",
+                        "userName": "Dropti Devi",
+                        "rating": "1",
+                        "thumbsUpCount": "42",
+                        "appVersion": "220.1.2 (arm64-v8a_release_flutter)",
+                        "replyContent": "Regret the inconvenience, Dropti. We suggest you contact our specialist team for assistance on this: https://goo.gle/2PQQFuc. Our team would be happy to help.",
+                        "repliedAt": "2024-04-04 19:43:02",
+                        "text": "It won't work, for HPSCB, I've tried everything. It won't let me add any UPI IDs, I even waited for 4 days, kept trying and trying. The payments won't go through. Eventually I just got tired. I've used this app for like 5 years now, and this is the first time it's failed me. Maybe it's the bank, idk man. I feel very frustrated and disappointed. Not to mention the time I wasted waiting.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "It won't work for HPSCB, I've tried everything.",
+                            "It won't let me add any UPI IDs.",
+                            "The payments won't go through.",
+                            "Maybe it's the bank, idk man."
+                        ]
+                    }
+                }
+            ],
+            "content": "One of payment got stuck due to server issue, Amount got debited from my account but it's showing in process, Bank account is automatically getting delinked from the app, Trying to activate bank account again shows sms sending error, Frequently happening issues, Issue with new update\nThe app says incorrect pin even when I input it carefully, Getting locked out of the app due to incorrect pin, App starts behaving unpredictably without multiple wrong tries, Extremely unreliable app\nAdding a feature to send reminders for unpaid shares would greatly enhance user experience.\nIt won't work for HPSCB, I've tried everything., It won't let me add any UPI IDs., The payments won't go through., Maybe it's the bank, idk man.",
+            "priority": "High",
+            "team_assigned": "Payments Team",
+            "no_of_users_reported": 4,
+            "resolved_status": false,
+            "resolution_timestamp": "",
+            "solution": ""
+        },
+        {
+            "ticket_id": "280017",
+            "timestamp": "2024-04-19 16:28:20",
+            "review_json_list": [
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-03 15:44:02",
+                        "reviewId": "31f21669-6d85-46ff-88c8-5e1d3ed61071",
+                        "userName": "Kadambari Bhosale",
+                        "rating": "1",
+                        "thumbsUpCount": "20",
+                        "appVersion": "220.1.2 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Worst experience with payment related issues. I have 2 call recordings in which you can clearly get to know how fraudulent this app is.  In the 1st call they mentioned You'll get your money within 48 hours.  In the 2'nd call they mentioned you will get an update regarding your payment in 3 days.  They are changing their statements in both the calls  Don't know when I will get my own money, but I'll definitely not recommend this app.  Fraud app ever",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "Worst experience with payment related issues.",
+                            "Fraudulent app with changing statements regarding payment.",
+                            "Uncertainty about receiving own money.",
+                            "Not recommended due to fraudulent nature of the app."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-03-23 21:25:15",
+                        "reviewId": "16df9b36-a2ad-46be-9166-976fe735b5bd",
+                        "userName": "Pooja pandit",
+                        "rating": "5",
+                        "thumbsUpCount": "3007",
+                        "appVersion": "219.1.3 (armeabi-v7a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Hi, After the last update, I'm not able to open the app. When I click on the login id, the UI disappear's and close the application. Kindly fix the issue ASAP. Secondly, the experience was excellent and swift before, but the cash back is very low. Everyone needs cash backs instead of irrelevant vouchers and coupons. Kindly bring these fixes ASAP. Keep growing guys. Thank you google pay.!!",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "I'm not able to open the app after the last update."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-03-22 20:15:35",
+                        "reviewId": "cffa1994-02d8-4c58-b387-b82df504bf58",
+                        "userName": "Athene Refer Code:- aa40c739a6",
+                        "rating": "4",
+                        "thumbsUpCount": "5266",
+                        "appVersion": "219.1.3 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Best And Superfast App...But, not working properly from the last month. I can scan any barcode and make the payment through it. But, when opt for mobile transfer to any person, my keyboard does not pop up. Not at all. Please help, as I tried everything. I cleared its data, cache, and even unistalled & reinstalled the app. But, all in vain. I have not been able to understand the problem even after looking for it on google & Youtube.\ud83d\ude03",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "The app is not working properly from the last month.",
+                            "Keyboard does not pop up when opting for mobile transfer to any person."
+                        ],
+                        "detailed_issues": []
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-03-22 20:15:35",
+                        "reviewId": "cffa1994-02d8-4c58-b387-b82df504bf58",
+                        "userName": "Athene Refer Code:- aa40c739a6",
+                        "rating": "4",
+                        "thumbsUpCount": "5266",
+                        "appVersion": "219.1.3 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Best And Superfast App...But, not working properly from the last month. I can scan any barcode and make the payment through it. But, when opt for mobile transfer to any person, my keyboard does not pop up. Not at all. Please help, as I tried everything. I cleared its data, cache, and even unistalled & reinstalled the app. But, all in vain. I have not been able to understand the problem even after looking for it on google & Youtube.\ud83d\ude03",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "The app is not working properly from the last month.",
+                            "My keyboard does not pop up when opting for mobile transfer to any person."
+                        ]
+                    }
+                }
+            ],
+            "content": "Worst experience with payment related issues., Fraudulent app with changing statements regarding payment., Uncertainty about receiving own money., Not recommended due to fraudulent nature of the app.\nI'm not able to open the app after the last update.\nThe app is not working properly from the last month., Keyboard does not pop up when opting for mobile transfer to any person.\nThe app is not working properly from the last month., My keyboard does not pop up when opting for mobile transfer to any person.",
+            "priority": "High",
+            "team_assigned": "Payments Team",
+            "no_of_users_reported": 4,
+            "resolved_status": false,
+            "resolution_timestamp": "",
+            "solution": ""
+        },
+        {
+            "ticket_id": "630068",
+            "timestamp": "2024-04-19 16:28:23",
+            "review_json_list": [
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-03-04 21:07:31",
+                        "reviewId": "9ab7f550-7f39-4d89-9222-e98a644cf2ac",
+                        "userName": "Peetus Augustine",
+                        "rating": "1",
+                        "thumbsUpCount": "1184",
+                        "appVersion": "216.1.1 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "One of the most unreliable apps on the store. Has given me so much pain. Online transactions fail all the time. Money gets debited but transaction fails at the vendor end then I have to spend time running behind the bank (Google Pay doesn't take up any responsibility) and the vendor. Can't rely on it to pay for quick transactions like cab/auto fares because it fails at the most critical points and you are left scrambling. Planning to move completely to other UPI apps.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "Online transactions fail all the time.",
+                            "Money gets debited but transaction fails at the vendor end then I have to spend time running behind the bank (Google Pay doesn't take up any responsibility) and the vendor."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-02-10 09:06:20",
+                        "reviewId": "385200b5-151c-4bb4-b95b-e90053690878",
+                        "userName": "Shaik Arshad Ali",
+                        "rating": "1",
+                        "thumbsUpCount": "1163",
+                        "appVersion": "212.1.1 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Everything is fine. But, recently I got an issue like my transaction is failed due to network issue. And in the transaction history the status is failed. But my money got debited from the bank account and I didn't got any message like money got debited,but when I check my balance the money got debited. Then, I raised a ticket. They said the money will be credited within 3days. Now, they are asking for the bank statement after 3 days. I really don't like this feature. Please fix this.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "My transaction failed due to a network issue and my money got debited without any notification.",
+                            "The customer support team asked for my bank statement after 3 days of raising the ticket.",
+                            "I am unsatisfied with the current feature of not receiving notifications for debited money."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-01-25 11:30:39",
+                        "reviewId": "b90c8ecf-3ca9-4fe5-9d4b-5fd6eaf8dd15",
+                        "userName": "Referral code:- 84v027",
+                        "rating": "5",
+                        "thumbsUpCount": "11817",
+                        "appVersion": "210.1.2 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "I loved this app....!!!! In my experience of using the app for all kinds of payments and others, the performance is outstanding and smooth. The app layout and interface is very impressive. The cash back points for various payments is an added bonus. Kudos to the App team. However a small point to note for improvement. When the phone is on mobile data and not on wifi, a pop up appears frequently at the bottom saying \" No internet available\". So everytime it has to be clicked and removed....!",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "When the phone is on mobile data and not on wifi, a pop up appears frequently at the bottom saying 'No internet available'. So everytime it has to be clicked and removed."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-01-15 11:40:56",
+                        "reviewId": "699c9a70-9f86-4bbe-918d-4522944ace78",
+                        "userName": "Referral Code - j3p830",
+                        "rating": "5",
+                        "thumbsUpCount": "7778",
+                        "appVersion": "205.1.6 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Unique features are very interesting. The Fastest And Greatest App...But for the past month, it hasn't been functioning properly. I am able to use any barcode to scan and process payments. But my keyboard does not appear when I want to transfer money to someone via mobile. Not at all. Help, please; I've tried everything. I deleted the app's data and cache and even uninstalled and reloaded it. But, all in vain. Even after searching Google and YouTube, I still can't seem to grasp the issue.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "The app hasn't been functioning properly for the past month.",
+                            "Keyboard does not appear when transferring money via mobile.",
+                            "Unable to grasp the issue even after searching Google and YouTube."
+                        ]
+                    }
+                }
+            ],
+            "content": "Online transactions fail all the time., Money gets debited but transaction fails at the vendor end then I have to spend time running behind the bank (Google Pay doesn't take up any responsibility) and the vendor.\nMy transaction failed due to a network issue and my money got debited without any notification., The customer support team asked for my bank statement after 3 days of raising the ticket., I am unsatisfied with the current feature of not receiving notifications for debited money.\nWhen the phone is on mobile data and not on wifi, a pop up appears frequently at the bottom saying 'No internet available'. So everytime it has to be clicked and removed.\nThe app hasn't been functioning properly for the past month., Keyboard does not appear when transferring money via mobile., Unable to grasp the issue even after searching Google and YouTube.",
+            "priority": "High",
+            "team_assigned": "Payments Team",
+            "no_of_users_reported": 4,
+            "resolved_status": false,
+            "resolution_timestamp": "",
+            "solution": ""
+        },
+        {
+            "ticket_id": "664178",
+            "timestamp": "2024-04-19 16:28:24",
+            "review_json_list": [
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-01-06 18:01:42",
+                        "reviewId": "9cc93627-2054-4adf-ade4-d7021b721f88",
+                        "userName": "Saurabh Pandey",
+                        "rating": "2",
+                        "thumbsUpCount": "3205",
+                        "appVersion": "205.1.6 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "I have been a user of Google Pay for a considerable period, but recently, my experience has been less than satisfactory. For the past month, Google Pay has been consistently showing a 'Something went wrong' error during bank transactions. This issue is specific to Google Pay, as other payment apps work fine. Disappointing, considering its previous reliability.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "Google Pay consistently showing a 'Something went wrong' error during bank transactions"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2023-11-30 16:41:11",
+                        "reviewId": "b7a05866-a204-47d0-8d51-df98ccdbf4f9",
+                        "userName": "Kshitij Sharma",
+                        "rating": "1",
+                        "thumbsUpCount": "1878",
+                        "appVersion": "200.1.1 (arm64-v8a_release_flutter)",
+                        "replyContent": "Regret the inconvenience, Kshitij. We suggest you contact our specialist team for assistance on this: https://goo.gle/2PQQFuc. Our team would be happy to help.",
+                        "repliedAt": "2023-11-30 17:01:41",
+                        "text": "I keep getting \"Something went wrong\" error while trying to add my Visa credit card for tap and pay. The worst part is it won't even tell me exactly what went wrong. This is so stupid. Have a clear error message at least! I've tried updating the app, clearing the data and cache as well but nothing seems to work. This is a pathetic experience!!! Fix it asap.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "Getting \"Something went wrong\" error while trying to add Visa credit card for tap and pay",
+                            "Tried updating the app, clearing data and cache but issue persists"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2023-11-23 10:48:05",
+                        "reviewId": "c3a07c3f-57fb-4638-bf0f-fea5c7505ade",
+                        "userName": "Ananya Mittal",
+                        "rating": "3",
+                        "thumbsUpCount": "12707",
+                        "appVersion": "200.1.1 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "I like how easily the payments can be done in some cases. However most of the time when making bank payments, it shows trouble. Whenever you want to make a payment two in a row it stops. Also, the cashback and reward were good first but now they are not useful, relevant or good. The four offers you get after payment are all bad and not useful. Plus, they say to complete tasks for cashback and even if you do that, you won't get the offered cashback. So you can only use it for small payments.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "Bank payments show trouble most of the time.",
+                            "Making two payments in a row stops the process."
+                        ]
+                    }
+                }
+            ],
+            "content": "Google Pay consistently showing a 'Something went wrong' error during bank transactions\nGetting \"Something went wrong\" error while trying to add Visa credit card for tap and pay, Tried updating the app, clearing data and cache but issue persists\nBank payments show trouble most of the time., Making two payments in a row stops the process.",
+            "priority": "High",
+            "team_assigned": "Payments Team",
+            "no_of_users_reported": 3,
+            "resolved_status": false,
+            "resolution_timestamp": "",
+            "solution": ""
+        }
+    ],
+    "User Interface and User Experience": [
+        {
+            "ticket_id": "186248",
+            "timestamp": "2024-04-19 16:28:27",
+            "review_json_list": [
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-15 21:22:47",
+                        "reviewId": "76e4a87f-c9b9-4e5e-83c1-901b25e2c07d",
+                        "userName": "ARUNAVA MUKHERJEE",
+                        "rating": "1",
+                        "thumbsUpCount": "49",
+                        "appVersion": "222.1.4 (arm64-v8a_release_flutter)",
+                        "replyContent": "Regret the inconvenience, Arunava. We suggest you contact our specialist team for assistance on this: https://goo.gle/2PQQFuc. Our team would be happy to help.",
+                        "repliedAt": "2024-04-15 22:09:40",
+                        "text": "I keep giving the correct pin, but it says incorrect pin, and locks me out of opening the app. Even when I carefully input each digit. It is really frustrating not being able to open the app. And not like I have already tried multiple wrong tries, it just starts doing this on a whim. Extremely unreliable.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "The app says incorrect pin even when the correct pin is entered.",
+                            "The app locks me out of opening it after entering the correct pin.",
+                            "The app is extremely unreliable."
+                        ],
+                        "detailed_issues": [
+                            {
+                                "issue": "The app says incorrect pin even when the correct pin is entered.",
+                                "containsAnyReport": true,
+                                "featureRequest": false
+                            },
+                            {
+                                "issue": "The app locks me out of opening it after entering the correct pin.",
+                                "containsAnyReport": true,
+                                "featureRequest": false
+                            },
+                            {
+                                "issue": "The app is extremely unreliable.",
+                                "containsAnyReport": true,
+                                "featureRequest": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-03-23 21:25:15",
+                        "reviewId": "16df9b36-a2ad-46be-9166-976fe735b5bd",
+                        "userName": "Pooja pandit",
+                        "rating": "5",
+                        "thumbsUpCount": "3007",
+                        "appVersion": "219.1.3 (armeabi-v7a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Hi, After the last update, I'm not able to open the app. When I click on the login id, the UI disappear's and close the application. Kindly fix the issue ASAP. Secondly, the experience was excellent and swift before, but the cash back is very low. Everyone needs cash backs instead of irrelevant vouchers and coupons. Kindly bring these fixes ASAP. Keep growing guys. Thank you google pay.!!",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "I'm not able to open the app after the last update."
+                        ],
+                        "detailed_issues": [
+                            {
+                                "issue": "I'm not able to open the app after the last update.",
+                                "containsAnyReport": true,
+                                "featureRequest": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-03-23 21:25:15",
+                        "reviewId": "16df9b36-a2ad-46be-9166-976fe735b5bd",
+                        "userName": "Pooja pandit",
+                        "rating": "5",
+                        "thumbsUpCount": "3007",
+                        "appVersion": "219.1.3 (armeabi-v7a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Hi, After the last update, I'm not able to open the app. When I click on the login id, the UI disappear's and close the application. Kindly fix the issue ASAP. Secondly, the experience was excellent and swift before, but the cash back is very low. Everyone needs cash backs instead of irrelevant vouchers and coupons. Kindly bring these fixes ASAP. Keep growing guys. Thank you google pay.!!",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "I'm not able to open the app after the last update."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-03-22 20:15:35",
+                        "reviewId": "cffa1994-02d8-4c58-b387-b82df504bf58",
+                        "userName": "Athene Refer Code:- aa40c739a6",
+                        "rating": "4",
+                        "thumbsUpCount": "5266",
+                        "appVersion": "219.1.3 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Best And Superfast App...But, not working properly from the last month. I can scan any barcode and make the payment through it. But, when opt for mobile transfer to any person, my keyboard does not pop up. Not at all. Please help, as I tried everything. I cleared its data, cache, and even unistalled & reinstalled the app. But, all in vain. I have not been able to understand the problem even after looking for it on google & Youtube.\ud83d\ude03",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "The app is not working properly from the last month.",
+                            "Keyboard does not pop up when opting for mobile transfer to any person."
+                        ],
+                        "detailed_issues": []
+                    }
+                }
+            ],
+            "content": "The app says incorrect pin even when the correct pin is entered., The app locks me out of opening it after entering the correct pin., The app is extremely unreliable.\nI'm not able to open the app after the last update.\nI'm not able to open the app after the last update.\nThe app is not working properly from the last month., Keyboard does not pop up when opting for mobile transfer to any person.",
+            "priority": "High",
+            "team_assigned": "User Interface and User Experience",
+            "no_of_users_reported": 4,
+            "resolved_status": false,
+            "resolution_timestamp": "",
+            "solution": ""
+        },
+        {
+            "ticket_id": "569118",
+            "timestamp": "2024-04-19 16:28:29",
+            "review_json_list": [
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-03-09 08:32:51",
+                        "reviewId": "df7cc2c4-4dea-427f-a30a-64ed81e166fa",
+                        "userName": "Invitation code- 4C6MTD",
+                        "rating": "5",
+                        "thumbsUpCount": "6028",
+                        "appVersion": "217.1.2 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Very impressive! Although there is a problem with the application, the transaction are excellent. My phone keeps making notification noises even after I disable them. It's annoying that I get too many alerts in one day. I ask that someone on the development team take care of this issue. Positively, I like the app's user interface, ease of use, and top-notch customer support. Queries are answered quickly, and the crew provides solutions right away. The app is well-structured, easy to use.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "My phone keeps making notification noises even after I disable them."
+                        ],
+                        "detailed_issues": [
+                            {
+                                "issue": "My phone keeps making notification noises even after I disable them.",
+                                "containsAnyReport": true,
+                                "featureRequest": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-03-09 08:32:51",
+                        "reviewId": "df7cc2c4-4dea-427f-a30a-64ed81e166fa",
+                        "userName": "Invitation code- 4C6MTD",
+                        "rating": "5",
+                        "thumbsUpCount": "6028",
+                        "appVersion": "217.1.2 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Very impressive! Although there is a problem with the application, the transaction are excellent. My phone keeps making notification noises even after I disable them. It's annoying that I get too many alerts in one day. I ask that someone on the development team take care of this issue. Positively, I like the app's user interface, ease of use, and top-notch customer support. Queries are answered quickly, and the crew provides solutions right away. The app is well-structured, easy to use.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "My phone keeps making notification noises even after I disable them."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-02-02 12:22:30",
+                        "reviewId": "aa864320-1679-4b67-8ec6-b8271c07685b",
+                        "userName": "Subhadeep Dey",
+                        "rating": "2",
+                        "thumbsUpCount": "5750",
+                        "appVersion": "212.1.1 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "It has been over three years since the Flutter-based version was released, yet the app still feels very sluggish and jittery even on a flagship phone, especially during scrolling. However, I really like the fact it stores transaction history indefinitely, and doesn't hide the VPA of online merchants in transaction history, which PhonePe is notorious for. It would have been great if you could add an option to copy transaction details to clipboard.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "the app still feels very sluggish and jittery even on a flagship phone, especially during scrolling"
+                        ],
+                        "detailed_issues": [
+                            {
+                                "issue": "the app still feels very sluggish and jittery even on a flagship phone, especially during scrolling",
+                                "containsAnyReport": true,
+                                "featureRequest": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-02-02 12:22:30",
+                        "reviewId": "aa864320-1679-4b67-8ec6-b8271c07685b",
+                        "userName": "Subhadeep Dey",
+                        "rating": "2",
+                        "thumbsUpCount": "5750",
+                        "appVersion": "212.1.1 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "It has been over three years since the Flutter-based version was released, yet the app still feels very sluggish and jittery even on a flagship phone, especially during scrolling. However, I really like the fact it stores transaction history indefinitely, and doesn't hide the VPA of online merchants in transaction history, which PhonePe is notorious for. It would have been great if you could add an option to copy transaction details to clipboard.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "the app still feels very sluggish and jittery even on a flagship phone, especially during scrolling"
+                        ]
+                    }
+                }
+            ],
+            "content": "My phone keeps making notification noises even after I disable them.\nMy phone keeps making notification noises even after I disable them.\nthe app still feels very sluggish and jittery even on a flagship phone, especially during scrolling\nthe app still feels very sluggish and jittery even on a flagship phone, especially during scrolling",
+            "priority": "High",
+            "team_assigned": "User Interface and User Experience",
+            "no_of_users_reported": 4,
+            "resolved_status": false,
+            "resolution_timestamp": "",
+            "solution": ""
+        },
+        {
+            "ticket_id": "948075",
+            "timestamp": "2024-04-19 16:28:30",
+            "review_json_list": [
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-01-15 11:40:56",
+                        "reviewId": "699c9a70-9f86-4bbe-918d-4522944ace78",
+                        "userName": "Referral Code - j3p830",
+                        "rating": "5",
+                        "thumbsUpCount": "7778",
+                        "appVersion": "205.1.6 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Unique features are very interesting. The Fastest And Greatest App...But for the past month, it hasn't been functioning properly. I am able to use any barcode to scan and process payments. But my keyboard does not appear when I want to transfer money to someone via mobile. Not at all. Help, please; I've tried everything. I deleted the app's data and cache and even uninstalled and reloaded it. But, all in vain. Even after searching Google and YouTube, I still can't seem to grasp the issue.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "The app hasn't been functioning properly for the past month.",
+                            "Keyboard does not appear when transferring money via mobile.",
+                            "Unable to grasp the issue even after searching Google and YouTube."
+                        ]
+                    }
+                }
+            ],
+            "content": "The app hasn't been functioning properly for the past month., Keyboard does not appear when transferring money via mobile., Unable to grasp the issue even after searching Google and YouTube.",
+            "priority": "High",
+            "team_assigned": "User Interface and User Experience",
+            "no_of_users_reported": 1,
+            "resolved_status": false,
+            "resolution_timestamp": "",
+            "solution": ""
+        }
+    ],
+    "Security and Fraud Prevention Team": [
+        {
+            "ticket_id": "777805",
+            "timestamp": "2024-04-19 16:28:32",
+            "review_json_list": [
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-16 15:43:14",
+                        "reviewId": "12eaa130-83cd-4ca2-9b2e-332f3b40a876",
+                        "userName": "Sudhanshu Joshi",
+                        "rating": "1",
+                        "thumbsUpCount": "0",
+                        "appVersion": "222.1.4 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "On April 15th, one of payment got stuck due to server issue, amount got debited from my account but it's showing in process. Since then after raising the issue ticket, my bank account is automatically getting delinked from the app and now when iam trying Activate my bank account again it's showing sms sending error. What to do ? Why Its frequently happening? Is this the issue with new update? Whom to contact?",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "One of payment got stuck due to server issue",
+                            "Amount got debited from my account but it's showing in process",
+                            "Bank account is automatically getting delinked from the app",
+                            "Trying to activate bank account again shows sms sending error",
+                            "Frequently happening issues",
+                            "Issue with new update"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-15 21:22:47",
+                        "reviewId": "76e4a87f-c9b9-4e5e-83c1-901b25e2c07d",
+                        "userName": "ARUNAVA MUKHERJEE",
+                        "rating": "1",
+                        "thumbsUpCount": "49",
+                        "appVersion": "222.1.4 (arm64-v8a_release_flutter)",
+                        "replyContent": "Regret the inconvenience, Arunava. We suggest you contact our specialist team for assistance on this: https://goo.gle/2PQQFuc. Our team would be happy to help.",
+                        "repliedAt": "2024-04-15 22:09:40",
+                        "text": "I keep giving the correct pin, but it says incorrect pin, and locks me out of opening the app. Even when I carefully input each digit. It is really frustrating not being able to open the app. And not like I have already tried multiple wrong tries, it just starts doing this on a whim. Extremely unreliable.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "The app says incorrect pin even when the correct pin is entered.",
+                            "The app locks me out of opening it after entering the correct pin.",
+                            "The app is extremely unreliable."
+                        ],
+                        "detailed_issues": [
+                            {
+                                "issue": "The app says incorrect pin even when the correct pin is entered.",
+                                "containsAnyReport": true,
+                                "featureRequest": false
+                            },
+                            {
+                                "issue": "The app locks me out of opening it after entering the correct pin.",
+                                "containsAnyReport": true,
+                                "featureRequest": false
+                            },
+                            {
+                                "issue": "The app is extremely unreliable.",
+                                "containsAnyReport": true,
+                                "featureRequest": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-15 21:22:47",
+                        "reviewId": "76e4a87f-c9b9-4e5e-83c1-901b25e2c07d",
+                        "userName": "ARUNAVA MUKHERJEE",
+                        "rating": "1",
+                        "thumbsUpCount": "49",
+                        "appVersion": "222.1.4 (arm64-v8a_release_flutter)",
+                        "replyContent": "Regret the inconvenience, Arunava. We suggest you contact our specialist team for assistance on this: https://goo.gle/2PQQFuc. Our team would be happy to help.",
+                        "repliedAt": "2024-04-15 22:09:40",
+                        "text": "I keep giving the correct pin, but it says incorrect pin, and locks me out of opening the app. Even when I carefully input each digit. It is really frustrating not being able to open the app. And not like I have already tried multiple wrong tries, it just starts doing this on a whim. Extremely unreliable.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "The app says incorrect pin even when I input it carefully",
+                            "Getting locked out of the app due to incorrect pin",
+                            "App starts behaving unpredictably without multiple wrong tries",
+                            "Extremely unreliable app"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-15 02:27:36",
+                        "reviewId": "0375a4cf-b4fd-43df-8fd7-acb17ca24589",
+                        "userName": "Ravi Nagpal",
+                        "rating": "2",
+                        "thumbsUpCount": "3",
+                        "appVersion": "222.1.4 (armeabi-v7a_release_flutter)",
+                        "replyContent": "Regret the inconvenience, Ravi. Our team is already working on resolving this at the earliest. We suggest you try again after a few hours. For further assistance, reach out to our support team. Here's how: https://goo.gle/2PQQFuc.",
+                        "repliedAt": "2024-04-15 02:59:39",
+                        "text": "The bank account gets Unlinked automatically. I have two different bank accounts and tried linking only one each time but the account is getting Unlinked and I've been promoted to add bank account again and again. There is no proper support to have this resolved which is indeed frustrating.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "The bank account gets unlinked automatically."
+                        ]
+                    }
+                }
+            ],
+            "content": "One of payment got stuck due to server issue, Amount got debited from my account but it's showing in process, Bank account is automatically getting delinked from the app, Trying to activate bank account again shows sms sending error, Frequently happening issues, Issue with new update\nThe app says incorrect pin even when the correct pin is entered., The app locks me out of opening it after entering the correct pin., The app is extremely unreliable.\nThe app says incorrect pin even when I input it carefully, Getting locked out of the app due to incorrect pin, App starts behaving unpredictably without multiple wrong tries, Extremely unreliable app\nThe bank account gets unlinked automatically.",
+            "priority": "High",
+            "team_assigned": "Security and Fraud Prevention Team",
+            "no_of_users_reported": 4,
+            "resolved_status": false,
+            "resolution_timestamp": "",
+            "solution": ""
+        },
+        {
+            "ticket_id": "327355",
+            "timestamp": "2024-04-19 16:28:36",
+            "review_json_list": [
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-04 18:59:49",
+                        "reviewId": "618be9d3-50be-498e-96ac-76b986c3a06e",
+                        "userName": "Dropti Devi",
+                        "rating": "1",
+                        "thumbsUpCount": "42",
+                        "appVersion": "220.1.2 (arm64-v8a_release_flutter)",
+                        "replyContent": "Regret the inconvenience, Dropti. We suggest you contact our specialist team for assistance on this: https://goo.gle/2PQQFuc. Our team would be happy to help.",
+                        "repliedAt": "2024-04-04 19:43:02",
+                        "text": "It won't work, for HPSCB, I've tried everything. It won't let me add any UPI IDs, I even waited for 4 days, kept trying and trying. The payments won't go through. Eventually I just got tired. I've used this app for like 5 years now, and this is the first time it's failed me. Maybe it's the bank, idk man. I feel very frustrated and disappointed. Not to mention the time I wasted waiting.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "It won't work for HPSCB, I've tried everything.",
+                            "It won't let me add any UPI IDs.",
+                            "The payments won't go through.",
+                            "Maybe it's the bank, idk man."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-03 15:44:02",
+                        "reviewId": "31f21669-6d85-46ff-88c8-5e1d3ed61071",
+                        "userName": "Kadambari Bhosale",
+                        "rating": "1",
+                        "thumbsUpCount": "20",
+                        "appVersion": "220.1.2 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Worst experience with payment related issues. I have 2 call recordings in which you can clearly get to know how fraudulent this app is.  In the 1st call they mentioned You'll get your money within 48 hours.  In the 2'nd call they mentioned you will get an update regarding your payment in 3 days.  They are changing their statements in both the calls  Don't know when I will get my own money, but I'll definitely not recommend this app.  Fraud app ever",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "Worst experience with payment related issues.",
+                            "Fraudulent app with changing statements regarding payment.",
+                            "Uncertainty about receiving own money.",
+                            "Not recommended due to fraudulent nature of the app."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-03-04 21:07:31",
+                        "reviewId": "9ab7f550-7f39-4d89-9222-e98a644cf2ac",
+                        "userName": "Peetus Augustine",
+                        "rating": "1",
+                        "thumbsUpCount": "1184",
+                        "appVersion": "216.1.1 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "One of the most unreliable apps on the store. Has given me so much pain. Online transactions fail all the time. Money gets debited but transaction fails at the vendor end then I have to spend time running behind the bank (Google Pay doesn't take up any responsibility) and the vendor. Can't rely on it to pay for quick transactions like cab/auto fares because it fails at the most critical points and you are left scrambling. Planning to move completely to other UPI apps.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "Online transactions fail all the time.",
+                            "Money gets debited but transaction fails at the vendor end then I have to spend time running behind the bank (Google Pay doesn't take up any responsibility) and the vendor."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-01-15 11:40:56",
+                        "reviewId": "699c9a70-9f86-4bbe-918d-4522944ace78",
+                        "userName": "Referral Code - j3p830",
+                        "rating": "5",
+                        "thumbsUpCount": "7778",
+                        "appVersion": "205.1.6 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Unique features are very interesting. The Fastest And Greatest App...But for the past month, it hasn't been functioning properly. I am able to use any barcode to scan and process payments. But my keyboard does not appear when I want to transfer money to someone via mobile. Not at all. Help, please; I've tried everything. I deleted the app's data and cache and even uninstalled and reloaded it. But, all in vain. Even after searching Google and YouTube, I still can't seem to grasp the issue.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "The app hasn't been functioning properly for the past month.",
+                            "Keyboard does not appear when transferring money via mobile.",
+                            "Unable to grasp the issue even after searching Google and YouTube."
+                        ]
+                    }
+                }
+            ],
+            "content": "It won't work for HPSCB, I've tried everything., It won't let me add any UPI IDs., The payments won't go through., Maybe it's the bank, idk man.\nWorst experience with payment related issues., Fraudulent app with changing statements regarding payment., Uncertainty about receiving own money., Not recommended due to fraudulent nature of the app.\nOnline transactions fail all the time., Money gets debited but transaction fails at the vendor end then I have to spend time running behind the bank (Google Pay doesn't take up any responsibility) and the vendor.\nThe app hasn't been functioning properly for the past month., Keyboard does not appear when transferring money via mobile., Unable to grasp the issue even after searching Google and YouTube.",
+            "priority": "High",
+            "team_assigned": "Security and Fraud Prevention Team",
+            "no_of_users_reported": 4,
+            "resolved_status": false,
+            "resolution_timestamp": "",
+            "solution": ""
+        },
+        {
+            "ticket_id": "962582",
+            "timestamp": "2024-04-19 16:28:37",
+            "review_json_list": [
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2023-12-19 12:24:44",
+                        "reviewId": "28f6ad51-c4d8-4e08-bbea-46757f93f070",
+                        "userName": "Irbaz Sadiq",
+                        "rating": "2",
+                        "thumbsUpCount": "6152",
+                        "appVersion": "205.1.5 (arm64-v8a_release_flutter)",
+                        "replyContent": "Don't worry, Irbaz. This happens sometime due to heavy traffic on bank servers. We suggest trying again after a couple of hours. Thanks for being patient.",
+                        "repliedAt": "2023-12-19 12:45:43",
+                        "text": "Since the last few days I've ran through some new issue which never occured before. I tried to reset my Pin and somehow it interfaces with a statement \"something went wrong with the bank servers\". Although this could be an issue with the Bank but I believe that if the developers take a deeper look into this app, then the issue could potentially be resolved. Hope you'll look forward into this.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "I've ran through some new issue which never occured before.",
+                            "something went wrong with the bank servers"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2023-11-30 16:41:11",
+                        "reviewId": "b7a05866-a204-47d0-8d51-df98ccdbf4f9",
+                        "userName": "Kshitij Sharma",
+                        "rating": "1",
+                        "thumbsUpCount": "1878",
+                        "appVersion": "200.1.1 (arm64-v8a_release_flutter)",
+                        "replyContent": "Regret the inconvenience, Kshitij. We suggest you contact our specialist team for assistance on this: https://goo.gle/2PQQFuc. Our team would be happy to help.",
+                        "repliedAt": "2023-11-30 17:01:41",
+                        "text": "I keep getting \"Something went wrong\" error while trying to add my Visa credit card for tap and pay. The worst part is it won't even tell me exactly what went wrong. This is so stupid. Have a clear error message at least! I've tried updating the app, clearing the data and cache as well but nothing seems to work. This is a pathetic experience!!! Fix it asap.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "Getting \"Something went wrong\" error while trying to add Visa credit card for tap and pay",
+                            "Tried updating the app, clearing data and cache but issue persists"
+                        ]
+                    }
+                }
+            ],
+            "content": "I've ran through some new issue which never occured before., something went wrong with the bank servers\nGetting \"Something went wrong\" error while trying to add Visa credit card for tap and pay, Tried updating the app, clearing data and cache but issue persists",
+            "priority": "High",
+            "team_assigned": "Security and Fraud Prevention Team",
+            "no_of_users_reported": 2,
+            "resolved_status": false,
+            "resolution_timestamp": "",
+            "solution": ""
+        }
+    ],
+    "Recharges and Bill Payments Team": [
+        {
+            "ticket_id": "325638",
+            "timestamp": "2024-04-19 16:28:39",
+            "review_json_list": [
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-13 15:37:47",
+                        "reviewId": "f566625c-b136-4066-8a61-e45edefa89df",
+                        "userName": "Shinaz ck",
+                        "rating": "4",
+                        "thumbsUpCount": "3",
+                        "appVersion": "222.1.4 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Discover seamless payments and effortless bill splitting with Google Pay. Pay for everyday purchases with a tap and easily split bills among friends. However, ensure unpaid amounts after bill splitting are visible and manageable, as they sometimes get buried in the transaction list. Adding a feature to send reminders for unpaid shares would greatly enhance user experience. Simplify your finances, track transactions, and stay on budget with our intuitive interface",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "Adding a feature to send reminders for unpaid shares would greatly enhance user experience."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-03-22 20:15:35",
+                        "reviewId": "cffa1994-02d8-4c58-b387-b82df504bf58",
+                        "userName": "Athene Refer Code:- aa40c739a6",
+                        "rating": "4",
+                        "thumbsUpCount": "5266",
+                        "appVersion": "219.1.3 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Best And Superfast App...But, not working properly from the last month. I can scan any barcode and make the payment through it. But, when opt for mobile transfer to any person, my keyboard does not pop up. Not at all. Please help, as I tried everything. I cleared its data, cache, and even unistalled & reinstalled the app. But, all in vain. I have not been able to understand the problem even after looking for it on google & Youtube.\ud83d\ude03",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "The app is not working properly from the last month.",
+                            "My keyboard does not pop up when opting for mobile transfer to any person."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-03-09 08:32:51",
+                        "reviewId": "df7cc2c4-4dea-427f-a30a-64ed81e166fa",
+                        "userName": "Invitation code- 4C6MTD",
+                        "rating": "5",
+                        "thumbsUpCount": "6028",
+                        "appVersion": "217.1.2 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Very impressive! Although there is a problem with the application, the transaction are excellent. My phone keeps making notification noises even after I disable them. It's annoying that I get too many alerts in one day. I ask that someone on the development team take care of this issue. Positively, I like the app's user interface, ease of use, and top-notch customer support. Queries are answered quickly, and the crew provides solutions right away. The app is well-structured, easy to use.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "My phone keeps making notification noises even after I disable them."
+                        ],
+                        "detailed_issues": [
+                            {
+                                "issue": "My phone keeps making notification noises even after I disable them.",
+                                "containsAnyReport": true,
+                                "featureRequest": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-01-25 11:30:39",
+                        "reviewId": "b90c8ecf-3ca9-4fe5-9d4b-5fd6eaf8dd15",
+                        "userName": "Referral code:- 84v027",
+                        "rating": "5",
+                        "thumbsUpCount": "11817",
+                        "appVersion": "210.1.2 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "I loved this app....!!!! In my experience of using the app for all kinds of payments and others, the performance is outstanding and smooth. The app layout and interface is very impressive. The cash back points for various payments is an added bonus. Kudos to the App team. However a small point to note for improvement. When the phone is on mobile data and not on wifi, a pop up appears frequently at the bottom saying \" No internet available\". So everytime it has to be clicked and removed....!",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "When the phone is on mobile data and not on wifi, a pop up appears frequently at the bottom saying 'No internet available'. So everytime it has to be clicked and removed."
+                        ]
+                    }
+                }
+            ],
+            "content": "Adding a feature to send reminders for unpaid shares would greatly enhance user experience.\nThe app is not working properly from the last month., My keyboard does not pop up when opting for mobile transfer to any person.\nMy phone keeps making notification noises even after I disable them.\nWhen the phone is on mobile data and not on wifi, a pop up appears frequently at the bottom saying 'No internet available'. So everytime it has to be clicked and removed.",
+            "priority": "High",
+            "team_assigned": "Recharges and Bill Payments Team",
+            "no_of_users_reported": 4,
+            "resolved_status": false,
+            "resolution_timestamp": "",
+            "solution": ""
+        }
+    ],
+    "Loans and Banking Team": [
+        {
+            "ticket_id": "648774",
+            "timestamp": "2024-04-19 16:28:41",
+            "review_json_list": [
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-16 15:43:14",
+                        "reviewId": "12eaa130-83cd-4ca2-9b2e-332f3b40a876",
+                        "userName": "Sudhanshu Joshi",
+                        "rating": "1",
+                        "thumbsUpCount": "0",
+                        "appVersion": "222.1.4 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "On April 15th, one of payment got stuck due to server issue, amount got debited from my account but it's showing in process. Since then after raising the issue ticket, my bank account is automatically getting delinked from the app and now when iam trying Activate my bank account again it's showing sms sending error. What to do ? Why Its frequently happening? Is this the issue with new update? Whom to contact?",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "One of payment got stuck due to server issue",
+                            "Amount got debited from my account but it's showing in process",
+                            "Bank account is automatically getting delinked from the app",
+                            "Trying to activate bank account again shows sms sending error",
+                            "Frequently happening issues",
+                            "Issue with new update"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-04-15 02:27:36",
+                        "reviewId": "0375a4cf-b4fd-43df-8fd7-acb17ca24589",
+                        "userName": "Ravi Nagpal",
+                        "rating": "2",
+                        "thumbsUpCount": "3",
+                        "appVersion": "222.1.4 (armeabi-v7a_release_flutter)",
+                        "replyContent": "Regret the inconvenience, Ravi. Our team is already working on resolving this at the earliest. We suggest you try again after a few hours. For further assistance, reach out to our support team. Here's how: https://goo.gle/2PQQFuc.",
+                        "repliedAt": "2024-04-15 02:59:39",
+                        "text": "The bank account gets Unlinked automatically. I have two different bank accounts and tried linking only one each time but the account is getting Unlinked and I've been promoted to add bank account again and again. There is no proper support to have this resolved which is indeed frustrating.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "The bank account gets unlinked automatically."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-02-10 09:06:20",
+                        "reviewId": "385200b5-151c-4bb4-b95b-e90053690878",
+                        "userName": "Shaik Arshad Ali",
+                        "rating": "1",
+                        "thumbsUpCount": "1163",
+                        "appVersion": "212.1.1 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "Everything is fine. But, recently I got an issue like my transaction is failed due to network issue. And in the transaction history the status is failed. But my money got debited from the bank account and I didn't got any message like money got debited,but when I check my balance the money got debited. Then, I raised a ticket. They said the money will be credited within 3days. Now, they are asking for the bank statement after 3 days. I really don't like this feature. Please fix this.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "My transaction failed due to a network issue and my money got debited without any notification.",
+                            "The customer support team asked for my bank statement after 3 days of raising the ticket.",
+                            "I am unsatisfied with the current feature of not receiving notifications for debited money."
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2024-01-06 18:01:42",
+                        "reviewId": "9cc93627-2054-4adf-ade4-d7021b721f88",
+                        "userName": "Saurabh Pandey",
+                        "rating": "2",
+                        "thumbsUpCount": "3205",
+                        "appVersion": "205.1.6 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "I have been a user of Google Pay for a considerable period, but recently, my experience has been less than satisfactory. For the past month, Google Pay has been consistently showing a 'Something went wrong' error during bank transactions. This issue is specific to Google Pay, as other payment apps work fine. Disappointing, considering its previous reliability.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "Google Pay consistently showing a 'Something went wrong' error during bank transactions"
+                        ]
+                    }
+                }
+            ],
+            "content": "One of payment got stuck due to server issue, Amount got debited from my account but it's showing in process, Bank account is automatically getting delinked from the app, Trying to activate bank account again shows sms sending error, Frequently happening issues, Issue with new update\nThe bank account gets unlinked automatically.\nMy transaction failed due to a network issue and my money got debited without any notification., The customer support team asked for my bank statement after 3 days of raising the ticket., I am unsatisfied with the current feature of not receiving notifications for debited money.\nGoogle Pay consistently showing a 'Something went wrong' error during bank transactions",
+            "priority": "High",
+            "team_assigned": "Loans and Banking Team",
+            "no_of_users_reported": 4,
+            "resolved_status": false,
+            "resolution_timestamp": "",
+            "solution": ""
+        },
+        {
+            "ticket_id": "802857",
+            "timestamp": "2024-04-19 16:28:44",
+            "review_json_list": [
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2023-12-19 12:24:44",
+                        "reviewId": "28f6ad51-c4d8-4e08-bbea-46757f93f070",
+                        "userName": "Irbaz Sadiq",
+                        "rating": "2",
+                        "thumbsUpCount": "6152",
+                        "appVersion": "205.1.5 (arm64-v8a_release_flutter)",
+                        "replyContent": "Don't worry, Irbaz. This happens sometime due to heavy traffic on bank servers. We suggest trying again after a couple of hours. Thanks for being patient.",
+                        "repliedAt": "2023-12-19 12:45:43",
+                        "text": "Since the last few days I've ran through some new issue which never occured before. I tried to reset my Pin and somehow it interfaces with a statement \"something went wrong with the bank servers\". Although this could be an issue with the Bank but I believe that if the developers take a deeper look into this app, then the issue could potentially be resolved. Hope you'll look forward into this.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "I've ran through some new issue which never occured before.",
+                            "something went wrong with the bank servers"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "source": "playstore",
+                        "date_time": "2023-11-23 10:48:05",
+                        "reviewId": "c3a07c3f-57fb-4638-bf0f-fea5c7505ade",
+                        "userName": "Ananya Mittal",
+                        "rating": "3",
+                        "thumbsUpCount": "12707",
+                        "appVersion": "200.1.1 (arm64-v8a_release_flutter)",
+                        "replyContent": "None",
+                        "repliedAt": "NaN",
+                        "text": "I like how easily the payments can be done in some cases. However most of the time when making bank payments, it shows trouble. Whenever you want to make a payment two in a row it stops. Also, the cashback and reward were good first but now they are not useful, relevant or good. The four offers you get after payment are all bad and not useful. Plus, they say to complete tasks for cashback and even if you do that, you won't get the offered cashback. So you can only use it for small payments.",
+                        "app_name": "Google_Pay_Secure_UPI_payment",
+                        "issues": [
+                            "Bank payments show trouble most of the time.",
+                            "Making two payments in a row stops the process."
+                        ]
+                    }
+                }
+            ],
+            "content": "I've ran through some new issue which never occured before., something went wrong with the bank servers\nBank payments show trouble most of the time., Making two payments in a row stops the process.",
+            "priority": "High",
+            "team_assigned": "Loans and Banking Team",
+            "no_of_users_reported": 2,
+            "resolved_status": false,
+            "resolution_timestamp": "",
+            "solution": ""
+        }
+    ]
+}
